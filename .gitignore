@@ -1,3 +1,4 @@
+*.log
 # Intellij
 .idea/
 *.iml
